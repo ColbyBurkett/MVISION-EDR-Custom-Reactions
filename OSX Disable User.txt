@@ -1,0 +1,4 @@
+#Mac: OS Command
+#Arguments:
+#username, string
+chsh -s /usr/bin/false {{username}}

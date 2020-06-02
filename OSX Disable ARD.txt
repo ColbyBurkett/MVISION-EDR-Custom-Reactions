@@ -1,0 +1,3 @@
+#Mac: OS Command
+# Disables Apple Remote Desktop
+/System/Library/CoreServices/RemoteManagement/ARDAgent.app/Contents/Resources/kickstart -deactivate -configure -access -off

@@ -1,0 +1,2 @@
+#Mac: OS Command
+systemsetup -setremotelogin off
